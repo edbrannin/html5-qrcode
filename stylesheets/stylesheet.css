@@ -277,6 +277,10 @@ Full-Width Styles
   margin: 0 auto;
 }
 
+#app {
+  min-height: 400px;
+}
+
 #forkme_banner {
   display: block;
   position: absolute;
